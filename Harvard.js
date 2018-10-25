@@ -1,6 +1,4 @@
 
-#Java Code
-
 import {ok, badRequest} from 'wix-http-functions';
 import wixData from 'wix-data';
 
